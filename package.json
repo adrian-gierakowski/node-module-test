@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "install": "echo dummy"
+    "install": "echo dummy dev"
   }
 }
