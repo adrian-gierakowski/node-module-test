@@ -5,9 +5,7 @@
   "repository": "git@github.com:adrian-gierakowski/private-repo-test.git",
   "author": "Adrian Gierakowski <agierakowski@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "ramda": "^0.28.0"
-  },
+  "dependencies": {},
   "scripts": {
     "install": "echo dummy"
   }
