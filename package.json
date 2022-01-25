@@ -7,8 +7,5 @@
   "license": "MIT",
   "dependencies": {
     "ramda": "^0.28.0"
-  },
-  "scripts": {
-    "install": "echo dummy"
   }
 }
